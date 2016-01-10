@@ -1,0 +1,19 @@
+{
+  "name": "kduino_fm_controller",
+  "version": "1.0.0",
+  "description": "Controller application for interfacing with an Arduino + Si4713 Stereo FM Transmitter ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IoT",
+    "Arduino"
+  ],
+  "author": "David Donovan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "node-red": "^0.12.5"
+  }
+}
